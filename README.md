@@ -1,3 +1,3 @@
 # mta_input
 
-MOLECULAR TAILORING approach input file
+MOLECULAR TAILORING APPROACH input file
